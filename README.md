@@ -12,4 +12,4 @@ $ npm install https://github.com/dingenz/brewcalcjs
 See [documentation/api](API.md).
 
 ## License
-Released under [the MIT license](LICENSE.md).
+Released under [the MIT license](LICENSE).
